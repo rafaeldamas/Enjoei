@@ -2,7 +2,7 @@
 Funcionalidade: Testes de busca de planetas
 
   @rafael_damas
-    @busca_planetas
+  @busca_planetas
   Esquema do Cenário: Cenário: Busca de planetas e validando o número registrado
     Dado que eu faço uma busca de planetas
     Quando eu armazeno o numero de planetas registrados

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Dado('que eu faço uma busca de planetas') do
   @planetas = planets.busca_planeta
 end

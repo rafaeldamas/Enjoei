@@ -1,4 +1,7 @@
+# frozen_string_literal: true
+
 module Planets
+  # classe de implementação dos métodos de busca dos planetas
   class PlanetsClient
     include HTTParty
     headers 'Content-Type' => 'application/json'

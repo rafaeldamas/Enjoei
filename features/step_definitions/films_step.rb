@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Dado('que eu faço uma requisição de busca de filmes') do
   @filmes = films.busca_filmes
 end
