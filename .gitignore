@@ -1,0 +1,5 @@
+/index.html
+.vscode/*
+Gemfile.lock
+/.bundle/
+.idea/*
